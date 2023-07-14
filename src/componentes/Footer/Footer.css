@@ -1,0 +1,27 @@
+.footer{
+    background-color: #6278F7;
+    background-image: url("../../../public/img/fundo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.footer .icons img{
+    margin: 20px;
+    width: 25px;
+}
+
+.footer .logo img{
+    max-width: 100%;
+    width: 150px;
+}
+
+.footer h3{
+    color: #FFF;
+    font-weight: 300;
+}
